@@ -5,10 +5,10 @@ Sistem Informasi Nilai Untuk Sekolah Menengah Atas
 
 Aplikasi Manajemen Nilai Untuk Sekolah Menengah Atas. Aplikasi ini dibuat buat dengan menggunakan framework PHP Laravel
 
--- Developed By 
-  <a href="http://kicencode.wordpress.com">Agus Cahyono</a>
-  <a href="mailto:cahyo.mamen@hotmail.com"> Kirim Email Ke Saya</a>
-  <a href="http://facebook.com/cahyocode">Facebook Agus Cahyono</a>
+-- Developed By  <br />  
+  <a href="http://kicencode.wordpress.com">Agus Cahyono</a><br />
+  <a href="mailto:cahyo.mamen@hotmail.com"> Kirim Email Ke Saya</a><br />
+  <a href="http://facebook.com/cahyocode">Facebook Agus Cahyono</a><br />
   
--- My Portofolio
+-- My Portofolio <br />
   <a href="http://behance.net/aguscahyono">My Portofolio</a>
